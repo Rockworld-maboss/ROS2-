@@ -1,0 +1,63 @@
+ # 🤖 Robotics & ROS 2 Learning Journey
+     
+## 👋 About
+This repository tracks my progress in learning:
+- ROS 2
+- Control Systems
+- Robotics Programming
+     
+It includes:
+- Notes
+- Challenges faced
+- Solutions
+- Small projects
+     
+---
+     
+## 🎯 Current Focus
+- ROS 2 fundamentals
+- Oscillation and motion control
+- Sinusoidal motion controllers
+- Impedance in robotics
+     
+---
+     
+## 📅 Progress Timeline
+     
+### July 2026
+- Learned oscillation basics
+- Understood sinusoidal motion
+- Built a simple ROS 2 sinusoidal controller
+- Studied impedance and its components
+     
+---
+     
+## 📂 Projects
+     
+### ✅ Sinusoidal Motion Controller
+- Generates periodic velocity commands using sine waves
+- Helps understand oscillatory motion
+     
+(More projects coming soon…)
+     
+---
+     
+## 📚 Topics Covered
+     
+### ROS 2
+- Nodes
+- Publishers
+- cmd_vel control
+     
+### Control Systems
+- Oscillation
+- Frequency & amplitude
+- Impedance (mass, damping, stiffness)
+     
+---
+     
+## 🚀 Goals
+- Build advanced ROS 2 controllers
+- Learn feedback control (PID, impedance control)
+- Work with real robotic systems
+
