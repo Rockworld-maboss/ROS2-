@@ -1,0 +1,38 @@
+# 📅 July 2026 Progress Log 
+
+--- 
+## ✅ 2026-07-01 
+
+### 📘 What I Learned 
+
+- Meaning of oscillation (repeated motion around equilibrium) 
+- Sinusoidal motion in robotics 
+- Basic ROS 2 controller concept 
+ 
+ ### ⚠️ Challenges 
+- Confusion between frequency and angular frequency 
+      
+### ✅ Solution 
+- Learned: 
+f = 1 / T   
+ ω = 2πf 
+
+### 🧠 Notes 
+- Need to visualize waves to better understand behavior 
+
+--- 
+
+## ✅ 2026-07-01 (continued) 
+
+### 📘 What I Learned 
+- Impedance in robotics 
+- Relationship between force and motion 
+### ⚠️ Challenges 
+
+- Understanding damping 
+
+### ✅ Solution 
+
+- Compared damping to friction slowing movement 
+### 🧠 Key Insight 
+- Impedance = Mass + Damping + Stiffness 
