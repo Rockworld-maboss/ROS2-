@@ -1,0 +1,23 @@
+##Bang-Bang (On-Off) Control
+##Definition
+
+The simplest controller. The actuator is either fully ON or fully OFF depending on the error.
+
+##Equation
+u(t)={umax,e(t)>0umin,
+e(t)<0u(t)= \begin{cases} u_{max},
+& e(t)>0 \\ u_{min},
+& e(t)<0 \end{cases}u(t)={umax​,umin​,
+​e(t)>0e(t)<0​
+
+where
+
+e(t)=r(t)−y(t)
+e(t)=r(t)-y(t)
+e(t)=r(t)−y(t)
+r(t)r(t)r(t) = reference
+y(t)y(t)y(t) = measured output
+
+##ROS2 Project
+Temperature control simulation
+Obstacle avoidance switch
